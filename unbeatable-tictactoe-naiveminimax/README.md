@@ -19,5 +19,10 @@ The game is coded in SWI-PROLOG 7.2.3 and Python 2.7.12. The GUI is created usin
     ```
 
 ### Working
-*---To be uploaded soon---*
+The moves are predicted by the AI using naive Minimax Algorithm, by producing the search tree and choosing the best path at each board state. No heuristic values are applied.A slight delay could occur in the first move due to larger time required for choosing the move at initial board states.
+
+References:
+1. Artificial Intelligence : A Modern Approach by Stuart Russel and Peter Norvig
+2. PROLOG Programming for Artificial Intelligence by Ivan Bratko
+3. http://neverstopbuilding.com/minimax
 
