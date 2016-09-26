@@ -10,7 +10,12 @@ The game is coded in SWI-PROLOG 7.2.3 and Python 2.7.12. The GUI is created usin
     ```
     sudo apt-get install python-tk
     ```
- - Install latest SWI-PROLOG from http://www.swi-prolog.org/
+ - Install latest SWI-PROLOG from http://www.swi-prolog.org/ or use:
+    '''
+    sudo apt-add-repository ppa:swi-prolog/stable
+    sudo apt-get update
+    sudo apt-get install swi-prolog
+    '''
  - Download this directory to your system
  - Open this directory in terminal and type the command below to start the game:
     

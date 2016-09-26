@@ -1,6 +1,5 @@
 from Tkinter import *
 from tkFont import *
-from pyswip import *
 from subprocess import Popen,PIPE
 import tkMessageBox
 """
