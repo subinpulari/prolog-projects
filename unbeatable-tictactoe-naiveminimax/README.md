@@ -23,6 +23,8 @@ The moves are predicted by the AI using naive Minimax Algorithm, by producing th
 
 References:
 1. Artificial Intelligence : A Modern Approach by Stuart Russel and Peter Norvig
+
 2. PROLOG Programming for Artificial Intelligence by Ivan Bratko
+
 3. http://neverstopbuilding.com/minimax
 
